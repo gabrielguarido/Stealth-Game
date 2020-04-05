@@ -1,7 +1,13 @@
 # Stealth-Game
-'Stealth-Game' is a FPS Stealth Game project that you can play on-line with your friends using multiplayer mode. Developed using C++, UE4 (Unreal Engine 4) and Artificial Inteligence to control the opponents.
+FPS game project to play solo with artificial inteligence or on-line with friends using multiplayer mode.
 
----
+## Technologies
+* C++
+* UE4 (Unreal Engine 4)
+* Artificial Inteligence (to control the opponents)
 
-- Author: Gabriel Guarido
-- Created At: 03/20/2020
+## Developers
+1. Gabriel Guarido
+
+## Starting at
+Mar 20 2020
